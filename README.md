@@ -1,19 +1,17 @@
 # Social Network 
 
-_Este proyecto fue realizado en grupos de a tres, es una mini aplicacion de red social, donde podemos interactuar con la comunidad, borrar un comentario, editar y actualizar_
+_Este proyecto fue realizado en grupos de a tres, es una mini aplicación de red social, donde podemos interactuar con la comunidad, borrar un comentario, editar y actualizar_
 
 ## Comenzando 🚀
 
 _Si quieres tener nuestro código simplemente lo puedes clonar ya que no tenemos SCRIPTS personalizadon ni un CLI para la ejecución de este programa_
 
 
-### Analice las pruebas end-to-end 🔩
+### Test 🔩
 
 _con "npm install" y "npm test" pueden ver nuestros test que realizamos para garantizar el funcionamiento de nuestra aplicación o en la carpeta llamada "test" para verificar nuestros __MOCKS__ y código _ 
 
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [FIREBASE](https://firebase.google.com/?hl=es) 
 * [JAVASCRIPT | HTML | CSS ](https://developer.mozilla.org/es/docs/Web/JavaScript) 
@@ -28,7 +26,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 
 
-## Gracias por el equipo de Laboratoria que nos estuvo acompañando en este proyecto y nos ayudaron a solucionar muchas dudas. 
+## Gracias al equipo de Laboratoria que nos estuvo acompañando en este proyecto y nos ayudaron a solucionar muchas dudas. 
 
 
 ---
