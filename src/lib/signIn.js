@@ -5,7 +5,7 @@ import { changeView } from './viewController.js';
 export default () => {
   const viewSignIn = `
   <figure>
-      <img class="Icono" src="images/iPhone 13/Logo.png" alt="Icono"><br>
+      <img class="Icono" src="images/Logo.png" alt="Icono"><br>
     </figure>
     <h1>SIGN IN</h1>
     <h4>Si ya estas registrado, ingresa tu correo y contraseña</h4>

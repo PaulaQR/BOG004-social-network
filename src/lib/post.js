@@ -23,7 +23,7 @@ export default () => {
   <button id="logout">Log out</button>
   </div>
   <figure>
-      <img class="IconoPost" src="images/iPhone 13/Logo.png" alt="Icono">
+      <img class="IconoPost" src="images/Logo.png" alt="Icono">
     </figure>
   <div class = 'postContainer'>
   <label for="comment" id = 'commentText'>Comment!</label>
