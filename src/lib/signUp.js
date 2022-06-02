@@ -6,7 +6,7 @@ export default () => {
   const viewSignUp = ` <form class="signUpForm" id="signUpForm">
   
     <figure>
-      <img class="Icono" src="images/iPhone 13/Logo.png" alt="Icono"><br>
+      <img class="Icono" src="images/Logo.png" alt="Icono"><br>
     </figure>
     <h1>SIGN UP</h1>
     <input type="text" class="nickname" id="nickname" placeholder="nickname" autocomplete = 'off'><br>
